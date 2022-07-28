@@ -1,4 +1,3 @@
-online change
 commit commit
 456
 
@@ -8,3 +7,4 @@ Add line
 sveta-test-test
 3line
 new branch line
+new line for git gui
